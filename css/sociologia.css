@@ -1,0 +1,11 @@
+body {
+  background: url('../images/115ab47f78bf3fce1f070b42e69168b3.jpg') center;
+  background-repeat: no-repeat;
+  height: 90vh;
+
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
